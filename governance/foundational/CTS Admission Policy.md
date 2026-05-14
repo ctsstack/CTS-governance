@@ -13,4 +13,5 @@ index_phrase: "CTS Admission Policy"
 ---
 
 This document is a placeholder. Admission rules are not currently enforced.  
-governance_class is optional and not conditionally required at this time.
+
+ - governance_class is optional and not conditionally required at this time.

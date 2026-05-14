@@ -1,13 +1,13 @@
 ---
 created: 2026-04-24T17:05:00Z
-edited: 2026-04-28T02:15:01Z 2026-05-01T03:20:04Z
+edited: 2026-05-14T19:13:12Z
 artifact: "self"
 origin: "internal"
 source: reflexion
-release: "R0_INTERNAL"
+release: "R4_PUBLIC"
 authority_level: "policy"
 governance_tier: "core"
-governance_class: “candidate”
+governance_class: “governed”
 wf_status: "active"
 tags: ["cts","timestamp","policy","governance","metadata"]
 index_phrase: "Defines the authoritative semantics, constraints, and usage rules for timestamps within CTS governed artifacts"

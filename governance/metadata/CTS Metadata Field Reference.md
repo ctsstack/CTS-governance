@@ -4,7 +4,7 @@ edited: 2026-03-02T20:46:00Z
 artifact: "self"
 origin: "internal"
 source: reflexion
-release: "R0_INTERNAL"
+release: "R4_PUBLIC"
 authority_level: "policy"
 governance_tier: "core"
 governance_class: "governed"
@@ -248,8 +248,13 @@ Mechanical version history is provided exclusively by version control systems (e
 - Required: conditional
 - Type: enum (scalar)
 - Allowed values:
-    - `governed`
+
+	- `governed`
+    
     - `candidate`
+    
+	- `superceded`
+
 - Mutable: yes (until admission finalized)
 - Governing documents:
     - CTS Admission Policy (governance_class enforcement rules)
@@ -269,8 +274,11 @@ Mechanical version history is provided exclusively by version control systems (e
 ### Applicability
 
 - This field is conditionally required based on:
+- 
     - `authority_level`
-    - `governance_tier`
+   
+	- `governance_tier`
+
 - Enforcement logic is defined in the CTS Admission Policy and is not restated here
 
 ---

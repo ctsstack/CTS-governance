@@ -1,13 +1,13 @@
 ---
 created: 2026-04-23T16:20:00Z
-edited:
+edited: 2026-05-14T19:08:02Z
 artifact: "self"
 origin: "internal"
 source: reflexion
-release: "R0_INTERNAL"
+release: "R4_PUBLIC"
 authority_level: "policy"
 governance_tier: "core"
-governance_class: “candidate”
+governance_class: “governed”
 wf_status: "active"
 tags: ["cts","coe","architecture","governance","canon","philosophy"]
 index_phrase: "Canonical definition of the structural relationship between CTS topology, toolset, governance, and the emergent Cognitive Operating Environment"

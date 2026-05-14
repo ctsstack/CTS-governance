@@ -4,10 +4,10 @@ edited: 2026-04-28T02:15:28Z
 artifact: "self"
 origin: "internal"
 source: reflexion
-release: "R0_INTERNAL"
+release: "R4_PUBLIC"
 authority_level: "policy"
 governance_tier: "core"
-governance_class: "candidate"
+governance_class: "governed"
 wf_status: "active"
 tags: ["cts","publication","promotion","governance","policy"]
 index_phrase: "Defines the authoritative rules governing promotion of CTS artifacts from Vault to public repository and their subsequent exposure"

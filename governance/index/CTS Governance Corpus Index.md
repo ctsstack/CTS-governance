@@ -4,7 +4,7 @@ edited: 2026-05-04T12:53:02Z
 artifact: "self"
 origin: "internal"
 source: reflexion
-release: "R0_INTERNAL"
+release: "R4_INTERNAL"
 authority_level: "guidance"
 governance_tier: "supporting"
 wf_status: "active"
@@ -26,6 +26,8 @@ Provide a consolidated index of the **minimum required CTS governance artifacts*
 - CTS Core Philosophy  [[CTS Core Philosophy]]
 - CTS Execution Compliance Contract  [[CTS Execution Compliance Contract]]
 - CTS Admission Policy (Stub)
+- CTS IngestCore Lexicon [[CTS IngestCore Lexicon]]
+- CTS Canonical Lexicon [[CTS Canonical Lexicon]]
 
 ---
 

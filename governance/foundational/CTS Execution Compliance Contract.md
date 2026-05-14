@@ -1,13 +1,13 @@
 ---
 created: 2026-04-24T16:10:00Z
-edited: 2026-04-28T02:30:11Z
+edited: 2026-05-14T19:08:55Z
 artifact: "self"
 origin: "internal"
 source: reflexion
-release: "R0_INTERNAL"
+release: "R4_PUBLIC"
 authority_level: "policy"
 governance_tier: "core"
-governance_class: “candidate”
+governance_class: “governed”
 wf_status: "active"
 tags: ["cts","execution","compliance","llm","contract","governance"]
 index_phrase: "Defines the mandatory execution and compliance behavior required for any system or agent producing CTS-governed artifacts"
