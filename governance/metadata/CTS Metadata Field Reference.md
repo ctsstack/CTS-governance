@@ -52,7 +52,7 @@ In the event of conflict:
     
 - Type: timestamp (scalar)
     
-- Allowed values: ISO 8601 UTC `YYYY-MM-DDTHH:MM:SSZ`
+- Allowed values: ISO 8601 UTC, Z-terminated (e.g. 2026-05-18T12:34:56Z)
 
 - Mutable: no (except via Metadata Repair Policy)
     
@@ -71,7 +71,7 @@ In the event of conflict:
     
 - Type: timestamp (scalar)
     
-- Allowed values: ISO 8601 UTC `YYYY-MM-DDTHH:MM:SSZ` or empty
+Allowed values: ISO 8601 UTC, Z-terminated (e.g. 2026-05-18T12:34:56Z) or empty
     
 - Mutable: yes (tool‑managed)
     
